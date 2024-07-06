@@ -1,6 +1,5 @@
 
 <h1 align="center">Implementation of "P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds"</h1>
-<img src="figures/satrack.png">
 
 ## Introduction
 
