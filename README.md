@@ -55,13 +55,13 @@ The official implementation of the paper:
 
 ## 🕹️ Getting Started
 
-- [Installation](https://github.com/OpenDriveLab/Vista/blob/main/docs/INSTALL.md)
+- [Installation](https://github.com/haooozi/P2P/docs/INSTALL.md)
 
-- [Data Preparation](https://github.com/OpenDriveLab/Vista/blob/main/docs/DATA.md)
+- [Data Preparation](https://github.com/haooozi/P2P/docs/DATA.md)
 
-- [Training](https://github.com/OpenDriveLab/Vista/blob/main/docs/TRAINING.md)
+- [Training](https://github.com/haooozi/P2P/docs/TRAINING.md)
 
-- [Testing](https://github.com/OpenDriveLab/Vista/blob/main/docs/TESTING.md)
+- [Testing](https://github.com/haooozi/P2P/docs/TESTING.md)
 
 
 ## ❤️ Acknowledgement
