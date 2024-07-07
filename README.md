@@ -24,19 +24,19 @@ The official implementation of the paper:
 
 <div id="top" align="center">
 <p align="center">
-<img src="figures/kitti.png" width="1000px" >
+<img src="figures/kitti.jpg" width="1000px" >
 </p>
 </div>
 
 <div id="top" align="center">
 <p align="center">
-<img src="figures/nuscenes.png" width="1000px" >
+<img src="figures/nuscenes.jpg" width="1000px" >
 </p>
 </div>
 
 <div id="top" align="center">
 <p align="center">
-<img src="figures/waymo.png" width="1000px" >
+<img src="figures/waymo.jpg" width="1000px" >
 </p>
 </div>
 
