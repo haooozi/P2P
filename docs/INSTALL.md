@@ -2,19 +2,17 @@
 
 
 - ### Requirement
-
-Here, we list the most important part of our dependencies
-
-|Dependency|Version|
-|---|---|
-|python|3.9.0|
-|pytorch|2.0.1|
-|mmengine|0.7.4|
-|mmcv|2.0.0|
-|mmdet|3.0.0|
-|mmdet3d|1.1.0|
-|spconv|2.3.6|
-|yapf|0.40.0|
+  Here, we list the most important part of our dependencies
+  |Dependency|Version|
+  |---|---|
+  |python|3.9.0|
+  |pytorch|2.0.1|
+  |mmengine|0.7.4|
+  |mmcv|2.0.0|
+  |mmdet|3.0.0|
+  |mmdet3d|1.1.0|
+  |spconv|2.3.6|
+  |yapf|0.40.0|
 
 - ### Preparation
 
