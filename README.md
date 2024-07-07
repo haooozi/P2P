@@ -52,7 +52,33 @@ The official implementation of the paper:
 ## 📋 TODO List
 
 - [ ] All caterogy model weights trained on KITTI, Nuscenes.
-      
+
+## 🕹️ Getting Started
+
+- [Installation](https://github.com/OpenDriveLab/Vista/blob/main/docs/INSTALL.md)
+
+- [Data Preparation](https://github.com/OpenDriveLab/Vista/blob/main/docs/DATA.md)
+
+- [Training](https://github.com/OpenDriveLab/Vista/blob/main/docs/TRAINING.md)
+
+- [Testing](https://github.com/OpenDriveLab/Vista/blob/main/docs/TESTING.md)
+
+
+## ❤️ Acknowledgement
+
+Our implementation is based on [Open3DSOT](https://github.com/Ghostish/Open3DSOT) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d). Thanks for their great open-source work!
+
+## ⭐ Citation
+
+If any parts of our paper and code help your research, please consider citing us and giving a star to our repository.
+
+```bibtex
+@article{p2p,
+ title={P2B: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds},
+ year={2024}
+}
+
+
 ## Introduction
 
 <p align="justify">3D single object tracking (SOT) methods based on appearance matching has long suffered from insufficient appearance information incurred by incomplete, textureless and semantically deficient LiDAR point clouds. While motion paradigm exploits motion cues instead of appearance matching for tracking, it incurs complex multi-stage processing and segmentation module. In this paper, we first provide in-depth explorations on motion paradigm, which proves that (i) it is feasible to directly infer target relative motion from point clouds across consecutive frames; (ii) fine-grained information comparison between consecutive point clouds facilitates target motion modeling. We thereby propose to perform part-to-part motion modeling for consecutive point clouds and introduce a novel tracking framework, termed P2P. The novel framework fuses each corresponding part information between consecutive point clouds, effectively exploring detailed information changes and thus modeling accurate target-related motion cues. Following this framework, we present P2P-point and P2P-voxel models, incorporating implicit and explicit part-to-part motion modeling by point- and voxel-based representation, respectively. Without bells and whistles, P2P-voxel sets a new state-of-the-art performance (~89%, 72% and 63% precision on KITTI, NuScenes and Waymo Open Dataset, respectively). Moreover, under the same point-based representation, P2P-point outperforms the previous motion tracker M2Track by 3.3% and 6.7% on the KITTI and NuScenes, while running at a considerably high speed of 107 Fps on a single RTX3090 GPU. 
