@@ -8,6 +8,12 @@ The official implementation of the paper:
 >
 > 📜 [[technical report](https://arxiv.org/abs/2407)], 🤗 [[model weights](https://drive.google.com/drive/folders/xx)]
 
+<div id="top" align="center">
+<p align="center">
+<img src="figures/framework_comparison" width="1000px" >
+</p>
+</div>
+
 ## 🔥 Highlights
 
 **P2P** is a strong tracking framework for 3D SOT on LiDAR point clouds that have:
