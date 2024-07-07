@@ -2,7 +2,9 @@
 
 
 - ### Requirement
+  
   Here, we list the most important part of our dependencies
+  
   |Dependency|Version|
   |---|---|
   |python|3.9.0|
@@ -15,6 +17,9 @@
   |yapf|0.40.0|
 
 - ### Preparation
+  
+  Clone the repository to your local directory.
+  
 
 
 
