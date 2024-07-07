@@ -51,7 +51,7 @@ The official implementation of the paper:
 
 ## 📋 TODO List
 
-- [ ] All caterogy model weights trained on KITTI, Nuscenes.
+- [ ] All caterogy model weights of point and voxel versions trained on KITTI, Nuscenes.
 
 ## 🕹️ Getting Started
 
