@@ -46,7 +46,6 @@ The official implementation of the paper:
 > If you have any question for our codes or model weights, please feel free to concat me at jhnie@hdu.edu.cn.
 
 - **[2024/07/07]** We released the installation, training, and testing details.
-%- **[2024/07/07]** We released our [paper](https://arxiv.org/abs/2407) on arXiv.
 - **[2024/07/06]** We released the implementation of our model.
 
 ## 📋 TODO List
