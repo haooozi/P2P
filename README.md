@@ -1,12 +1,20 @@
-# P2P: 
+# P2P 
 
 The official implementation of the paper: 
 
-**Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds**
+**P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds**
 
 >  [Jiahao Nie](https://scholar.google.com/citations?user=R0uN6pcAAAAJ&hl=zh-CN), [Fei Xie](https://scholar.google.com/citations?user=GbGmwiwAAAAJ&hl=zh-CN&oi=ao), [Sifan Zhou](https://scholar.google.com/citations?user=kSdqoi0AAAAJ&hl=zh-CN&oi=ao), [Xueyi Zhou](https://scholar.google.com/citations?hl=zh-CN&user=YflJMZcAAAAJ), [Dong-Kyu Chae](https://scholar.google.com/citations?hl=zh-CN&user=cUkDvwQAAAAJ), [Zhiwei He](https://scholar.google.com/citations?user=OZkiufUAAAAJ&hl=zh-CN&oi=ao).
 >
 > 📜 [[technical report](https://arxiv.org/abs/2407)], 🤗 [[model weights](https://drive.google.com/drive/folders/xx)]
+
+## 🔥 Highlights
+
+**P2P** is a strong tracking framework for 3D SOT on LiDAR point clouds that have:
+
+- *Elegant tracking pipeline*.
+- *SOTA performance on KITTI, NuScenes and Waymo*.
+- *High efficiency*.
 
 ## Introduction
 
