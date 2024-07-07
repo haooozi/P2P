@@ -54,13 +54,13 @@ The official implementation of the paper:
 
 ## 🕹️ Getting Started
 
-- [Installation](https://github.com/haooozi/P2P/docs/INSTALL.md)
+- [Installation](https://github.com/haooozi/P2P/tree/main/docs/INSTALL.md)
 
-- [Data Preparation](https://github.com/haooozi/P2P/docs/DATA.md)
+- [Data Preparation](https://github.com/haooozi/P2P/tree/main/docs/DATA.md)
 
-- [Training](https://github.com/haooozi/P2P/docs/TRAINING.md)
+- [Training](https://github.com/haooozi/P2P/tree/main/docs/TRAINING.md)
 
-- [Testing](https://github.com/haooozi/P2P/docs/TESTING.md)
+- [Testing](https://github.com/haooozi/P2P/tree/main/docs/TESTING.md)
 
 
 ## ❤️ Acknowledgement
