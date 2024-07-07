@@ -1,25 +1,26 @@
-
-<h1 align="center">Implementation of "P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds"</h1>
-<img src="figures/satrack.png">
-
-## Introduction
-
-<p align="justify">3D single object tracking (SOT) methods based on appearance matching has long suffered from insufficient appearance information incurred by incomplete, textureless and semantically deficient LiDAR point clouds. While motion paradigm exploits motion cues instead of appearance matching for tracking, it incurs complex multi-stage processing and segmentation module. In this paper, we first provide in-depth explorations on motion paradigm, which proves that (\textbf{i}) it is feasible to directly infer target relative motion from point clouds across consecutive frames; (\textbf{ii}) fine-grained information comparison between consecutive point clouds facilitates target motion modeling. We thereby propose to perform part-to-part motion modeling for consecutive point clouds and introduce a novel tracking framework, termed \textbf{P2P}. The novel framework fuses each corresponding part information between consecutive point clouds, effectively exploring detailed information changes and thus modeling accurate target-related motion cues. Following this framework, we present P2P-point and P2P-voxel models, incorporating implicit and explicit part-to-part motion modeling by point- and voxel-based representation, respectively. Without bells and whistles, P2P-voxel sets a new state-of-the-art performance ($\sim$\textbf{89\%}, \textbf{72\%} and \textbf{63\%} precision on KITTI, NuScenes and Waymo Open Dataset, respectively). Moreover, under the same point-based representation, P2P-point outperforms the previous motion tracker M$^2$Track by \textbf{3.3\%} and \textbf{6.7\%} on the KITTI and NuScenes, while running at a considerably high speed of \textbf{107 Fps} on a single RTX3090 GPU. 
+## Installation
 
 
-## Setup
+- ### Requirement
+
 Here, we list the most important part of our dependencies
 
 |Dependency|Version|
 |---|---|
 |python|3.9.0|
-|pytorch|2.0.1 (cuda11.8)|
+|pytorch|2.0.1|
 |mmengine|0.7.4|
 |mmcv|2.0.0|
 |mmdet|3.0.0|
 |mmdet3d|1.1.0|
-|spconv|2.3.6 (cu118)|
+|spconv|2.3.6|
 |yapf|0.40.0|
+
+- ### Preparation
+
+
+
+
 
 ## Dataset Preparation
 
