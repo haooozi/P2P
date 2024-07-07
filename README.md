@@ -40,6 +40,16 @@ The official implementation of the paper:
 </p>
 </div>
 
+## 📢 News
+
+> [!IMPORTANT]
+> If you have any question for our codes or model weights, please feel free to concat me at jhnie@hdu.edu.cn.
+
+- **[2024/06/06]** We released the model weights v1.0 at [Hugging Face](https://huggingface.co/OpenDriveLab/Vista/blob/main/vista.safetensors) and [Google Drive](https://drive.google.com/file/d/1bCM7XLDquRqnnpauQAK5j1jP-n0y1ama/view).
+- **[2024/06/04]** We released the installation, training, and sampling scripts.
+- **[2024/05/28]** We released the implementation of our model.
+- **[2024/05/28]** We released our [paper](https://arxiv.org/abs/2405.17398) on arXiv.
+
 ## Introduction
 
 <p align="justify">3D single object tracking (SOT) methods based on appearance matching has long suffered from insufficient appearance information incurred by incomplete, textureless and semantically deficient LiDAR point clouds. While motion paradigm exploits motion cues instead of appearance matching for tracking, it incurs complex multi-stage processing and segmentation module. In this paper, we first provide in-depth explorations on motion paradigm, which proves that (i) it is feasible to directly infer target relative motion from point clouds across consecutive frames; (ii) fine-grained information comparison between consecutive point clouds facilitates target motion modeling. We thereby propose to perform part-to-part motion modeling for consecutive point clouds and introduce a novel tracking framework, termed P2P. The novel framework fuses each corresponding part information between consecutive point clouds, effectively exploring detailed information changes and thus modeling accurate target-related motion cues. Following this framework, we present P2P-point and P2P-voxel models, incorporating implicit and explicit part-to-part motion modeling by point- and voxel-based representation, respectively. Without bells and whistles, P2P-voxel sets a new state-of-the-art performance (~89%, 72% and 63% precision on KITTI, NuScenes and Waymo Open Dataset, respectively). Moreover, under the same point-based representation, P2P-point outperforms the previous motion tracker M2Track by 3.3% and 6.7% on the KITTI and NuScenes, while running at a considerably high speed of 107 Fps on a single RTX3090 GPU. 
