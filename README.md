@@ -10,7 +10,7 @@ The official implementation of the paper:
 
 <div id="top" align="center">
 <p align="center">
-<img src="figures/framework_comparison" width="1000px" >
+<img src="figures/framework_comparison.png" width="1000px" >
 </p>
 </div>
 
@@ -21,6 +21,24 @@ The official implementation of the paper:
 - *Elegant tracking pipeline*.
 - *SOTA performance on KITTI, NuScenes and Waymo*.
 - *High efficiency*.
+
+<div id="top" align="center">
+<p align="center">
+<img src="figures/kitti.png" width="1000px" >
+</p>
+</div>
+
+<div id="top" align="center">
+<p align="center">
+<img src="figures/nuscenes.png" width="1000px" >
+</p>
+</div>
+
+<div id="top" align="center">
+<p align="center">
+<img src="figures/waymo.png" width="1000px" >
+</p>
+</div>
 
 ## Introduction
 
