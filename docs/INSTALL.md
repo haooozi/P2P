@@ -19,7 +19,27 @@
 - ### Preparation
   
   Clone the repository to your local directory.
+
+  ```shell
+  git clone https://github.com/haooozi/P2P.git
+  ```
   
+- ### Installation
+  
+  - We use conda to manage the environment.
+
+    ```shell
+    conda create -n p2p python=3.9
+    conda activate p2p
+    ```
+  
+  - Install dependencies.
+  
+    ```shell
+    conda install -y pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
+    pip3 install -r requirements.txt
+    pip3 install -e git+https://github.com/Stability-AI/datapipelines.git@main#egg=sdata
+    ```
 
 
 
