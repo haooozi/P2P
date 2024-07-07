@@ -45,10 +45,9 @@ The official implementation of the paper:
 > [!IMPORTANT]
 > If you have any question for our codes or model weights, please feel free to concat me at jhnie@hdu.edu.cn.
 
-- **[2024/06/06]** We released the model weights v1.0 at [Hugging Face](https://huggingface.co/OpenDriveLab/Vista/blob/main/vista.safetensors) and [Google Drive](https://drive.google.com/file/d/1bCM7XLDquRqnnpauQAK5j1jP-n0y1ama/view).
-- **[2024/06/04]** We released the installation, training, and sampling scripts.
-- **[2024/05/28]** We released the implementation of our model.
-- **[2024/05/28]** We released our [paper](https://arxiv.org/abs/2405.17398) on arXiv.
+- **[2024/07/07]** We released the installation, training, and testing details.
+- **[2024/07/07]** We released our [paper](https://arxiv.org/abs/2407) on arXiv.
+- **[2024/07/06]** We released the implementation of our model.
 
 ## Introduction
 
