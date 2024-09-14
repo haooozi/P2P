@@ -66,7 +66,7 @@ The official implementation of the paper:
 
 ## ❤️ Acknowledgement
 
-Our implementation is based on [Open3DSOT](https://github.com/Ghostish/Open3DSOT) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d). Thanks for their great open-source work!
+Our implementation is based on [Open3DSOT](https://github.com/Ghostish/Open3DSOT), [BEVTrack](https://github.com/xmm-prio/BEVTrack) and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d). Thanks for the great open-source work!
 
 ## ⭐ Citation
 
