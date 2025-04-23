@@ -45,14 +45,15 @@ The official implementation of the paper:
 > [!IMPORTANT]
 > If you have any question for our codes or model weights, please feel free to concat me at jhnie@hdu.edu.cn.
 
-- **[2024/07/10]** The paper is accepted by IJCV and plubished at [here](https://link.springer.com/article/10.1007/s11263-025-02430-6).
+- **[2025/04/23]** We released the pretrained codes at [here](https://pan.baidu.com/s/1vCDFboMFrVGPKmH1H3hKkQ?pwd=794b).
+- **[2025/04/21]** The paper is accepted by IJCV and plubished at [here](https://link.springer.com/article/10.1007/s11263-025-02430-6).
 - **[2024/07/10]** We released the arxiv version at [here](https://arxiv.org/abs/2407.05238).
 - **[2024/07/07]** We released the installation, training, and testing details.
 - **[2024/07/06]** We released the implementation of our model.
 
 ## 📋 TODO List
 
-- [ ] All caterogy model weights of point and voxel versions trained on KITTI, Nuscenes.
+- [ ] To be determined.
 
 ## 🕹️ Getting Started
 
