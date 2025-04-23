@@ -6,7 +6,7 @@ The official implementation of the paper:
 
 >  [Jiahao Nie](https://scholar.google.com/citations?user=R0uN6pcAAAAJ&hl=zh-CN), [Fei Xie](https://scholar.google.com/citations?user=GbGmwiwAAAAJ&hl=zh-CN&oi=ao), [Sifan Zhou](https://scholar.google.com/citations?user=kSdqoi0AAAAJ&hl=zh-CN&oi=ao), [Xueyi Zhou](https://scholar.google.com/citations?hl=zh-CN&user=YflJMZcAAAAJ), [Dong-Kyu Chae](https://scholar.google.com/citations?hl=zh-CN&user=cUkDvwQAAAAJ), [Zhiwei He](https://scholar.google.com/citations?user=OZkiufUAAAAJ&hl=zh-CN&oi=ao).
 >
-> 📜 [[technical report](https://arxiv.org/abs/2407.05238)], 🤗 [[model weights](https://drive.google.com/drive/folders/xx)]
+> 📜 [[technical report](https://arxiv.org/abs/2407.05238)], 🤗 [[model weights](https://pan.baidu.com/s/1vCDFboMFrVGPKmH1H3hKkQ?pwd=794b)]
 
 <div id="top" align="center">
 <p align="center">
@@ -45,6 +45,7 @@ The official implementation of the paper:
 > [!IMPORTANT]
 > If you have any question for our codes or model weights, please feel free to concat me at jhnie@hdu.edu.cn.
 
+- **[2024/07/10]** The paper is accepted by IJCV and plubished at [here](https://link.springer.com/article/10.1007/s11263-025-02430-6).
 - **[2024/07/10]** We released the arxiv version at [here](https://arxiv.org/abs/2407.05238).
 - **[2024/07/07]** We released the installation, training, and testing details.
 - **[2024/07/06]** We released the implementation of our model.
